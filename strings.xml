@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Coinectus</string>
+    <!--LOGO-->
+    <string name="slogan_logo">Money Master</string>
+
+    <!--GetNumber-->
+    <string name="title_getNumber">Verify your mobile number</string>
+    <string name="note_getNmber">Coinectus is sent an SMS message for verify your mobile number. Enter valid number for verification.</string>
+    <string name="policy_getNumber">By logging you agree with coinectus privacy policy.</string>
+    <string name="hint_number">Enter mobile number</string>
+
+    <!--Verify-->
+    <string name="note_verify">Coinectus is sent an SMS message with OTP. Verify mobile number with enter valid OTP.</string>
+    <string name="policy_verify">Enter 6-Digit Code</string>
+    <string name="resend_verify">Resend</string>
+    <string name="hint_verify">OTP</string>
+    <string name="wrong_verify">Wrong number?</string>
+</resources>
